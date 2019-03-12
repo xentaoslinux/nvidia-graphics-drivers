@@ -1,0 +1,11 @@
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/libcuda1-346_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/libcuda1-346_346.72-0ubuntu1_i386.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-346-dev_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-346-dev_346.72-0ubuntu1_i386.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-346-uvm_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-346_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-346_346.72-0ubuntu1_i386.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-libopencl1-346_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-libopencl1-346_346.72-0ubuntu1_i386.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-opencl-icd-346_346.72-0ubuntu1_amd64.deb
+http://packages.linuxmint.com/pool/import/n/nvidia-graphics-drivers-346/nvidia-opencl-icd-346_346.72-0ubuntu1_i386.deb
